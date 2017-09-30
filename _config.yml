@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-98100689-1
+google_analytics: UA-107319748-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -70,7 +70,7 @@ kramdown:
 
 # Podcast Feed Settings
 podcast_url: https://zeeromx.github.io
-podcast_album_art: /img/ugeek.png
+podcast_album_art: /img/ZeroOmega.png
 podcast_title: ZeeroMX
 podcast_owner: Zero	
 podcast_email: gsczero@gmail.com
