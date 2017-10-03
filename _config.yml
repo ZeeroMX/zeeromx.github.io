@@ -70,7 +70,7 @@ kramdown:
 
 # Podcast Feed Settings
 podcast_url: https://zeeromx.github.io
-podcast_album_art: /img/ZeroOmega.png
+podcast_album_art: /img/zeroomega.png
 podcast_title: ZeeroMX
 podcast_owner: Zero	
 podcast_email: gsczero@gmail.com
